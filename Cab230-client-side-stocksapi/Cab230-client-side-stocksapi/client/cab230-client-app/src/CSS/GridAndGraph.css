@@ -1,0 +1,50 @@
+.wrapper {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+
+.wrapper .ag-theme-balham-dark{
+    height: 380px;
+    width: 1075px;
+}
+
+.wrapper2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper2 .ag-theme-balham-dark{
+    height: 515px;
+    width: 603px;
+}
+
+.wrapper3 .ag-theme-balham-dark{
+    height: 515px;
+    width: 603px;
+}
+
+.wrapper3 {
+    display: flex;
+    justify-content: left;
+    margin-left: 168px;
+
+}
+
+.wrapper3 .charting{
+    margin-top: 217px;
+    margin-left: 75px;
+    width: 650px;
+}
+
+.ag-header-viewport {
+    background-color: #09063b;
+    -webkit-text-fill-color: white;
+}
+
+.ag-paging-panel {
+    background-color: #09063b;
+    -webkit-text-fill-color: white;
+}
+

@@ -1,0 +1,83 @@
+.Styles {
+    height: 100vh;
+    background: url("../Images/background.jpg");
+    background-size: 100% 100%;
+    color: darkgray;
+
+}
+
+h1 {
+    font-family: American Typewriter, serif;
+    color: darkgray;
+    margin-top: 25px;
+}
+
+body {
+    font-size: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: grey;
+    margin-left: 50px;
+    font-size: 20px !important;
+    font-family: American Typewriter, serif;
+}
+
+.navbar-nav .nav-item {
+    border-right: 4px solid #0E0957;
+    padding-right: 50px;
+    border-bottom: 3px solid #0E0957;
+}
+
+.button {
+    font-size: 20px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+.logButton {
+    font-size: 20px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    margin-top: 35px;
+    margin-left: 125px;
+}
+.input {
+    font-size: 20px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid rgb(1, 88, 110);
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: darkgray;
+}
+
+.dropdown-menu{
+    background-color: #069c9e;
+}
+
+
+
+.label {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: darkgray;
+
+}
+
+.LoginLogoutWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

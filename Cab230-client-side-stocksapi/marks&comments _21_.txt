@@ -1,0 +1,51 @@
+
+Assignment 1 - Client Side - Marks and Comments: 
+------------------------------------------------
+The mark awarded here is a 'grade' in each category. We only use 'half grades' 
+or full grades: 7, 6.5, 6, 5.5, 5, 4.5, 4, 3.5, 3, 2.5, 2, 1.5, 1, 0. The 
+marker may manually record marks against each category, or copy and paste a 
+row from our spreadsheet. Either way, these will be used to determine your 
+final mark. So if you are given a 5.5 for Overall Functionality, then you will 
+get: 
+
+5.5/7.0 * 30 = 23.57 
+
+for that category. We *won't* show those calculations here, but that is how 
+your final mark will be determined. If the row from the spreadsheet is used, 
+it may also show the total out of 100 as the last entry. 
+
+Comments: 
+---------
+The marker may write comments only here or here and in the report. Both your 
+report and the CRA are in this archive for ease of reference.  
+
+Page 1 of the CRA:
+------------------
+Overall Functionality (30 marks):  
+All endpoints implemented correctly, graphing done well
+7/7
+
+Application performance (10 marks):
+Client side and server side filtering used
+7/7 
+
+Application Robustness (10 marks): 
+Errors handled well
+7/7
+
+Application UI Design (20 marks):
+Clear UI design with good work flow
+7/7
+
+
+Page 2 of the CRA: 
+------------------
+Development and Code Quality (10 marks):
+Good application structure, good code reuse, comprehensive comments
+7/7
+
+Report and Reflections (20 marks):
+I like how you said 'there are no limitations with this application'
+7/7
+
+
